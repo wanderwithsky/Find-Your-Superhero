@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    font-size: 20px;
+    background-color: #182b49;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+}
+
+.super-hero {
+    margin: auto;
+    padding: 20px;
+}
+
+.super-hero .main {
+    text-align: center;
+    left: 50%;
+    margin: auto;
+}
+
+button {
+    width: 120px;
+    height: 25px;
+    border-radius: 10px;
+    border: none;
+    background-color: #306a7e;
+    color: #fff;
+    cursor: pointer;
+}
